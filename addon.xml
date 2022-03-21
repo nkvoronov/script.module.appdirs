@@ -16,7 +16,6 @@
 		<description lang="ru_RU">Небольшой модуль Python для определения подходящих каталогов для конкретных платформ, например. "каталог пользовательских данных".</description>
 		<description lang="uk_UA">Невеликий модуль Python для визначення відповідних каталогів для платформи, напр. "каталог даних користувача".</description>
 		<license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
-		<platform>all</platform>
 		<email>nkvoronov@gmail.com</email>
 		<source>https://github.com/nkvoronov/script.module.appdirs.git</source>
 		<assets>
