@@ -1,2 +1,2 @@
 # script.module.appdirs
-What directory should your app use for storing user data? If running on Mac OS X, you should use
+A small Python module for determining appropriate platform-specific dirs, e.g. a "user data dir".
